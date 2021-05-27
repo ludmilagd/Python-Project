@@ -1,12 +1,5 @@
 # Python 
 
-## Background
-
-
-
-## PyBank
-
-![Revenue](Images/revenue-per-lead.png)
 
 Objective: Create a Python script for analyzing the financial records based on a set of financial data. 
 
